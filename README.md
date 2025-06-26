@@ -1,4 +1,4 @@
-# 💰 AI Finance Platform
+# 💰TrackNest
 
 A comprehensive **AI Finance Platform** built using modern web technologies to provide users with **advanced financial tools**, **personalized insights**, and **real-time analytics**.
 
@@ -26,6 +26,9 @@ A comprehensive **AI Finance Platform** built using modern web technologies to p
 - **Shadcn UI** – Beautiful, accessible React UI components.
 
 ---
+## Preview
+
+
 
 ## 📦 Installation & Local Setup
 
@@ -33,4 +36,5 @@ A comprehensive **AI Finance Platform** built using modern web technologies to p
 git clone https://github.com/yourusername/ai-finance-platform.git
 cd ai-finance-platform
 npm install
-npm run dev
+npm run dev```
+##  Installation & Local Setup
