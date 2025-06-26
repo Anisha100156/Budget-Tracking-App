@@ -28,6 +28,9 @@ A comprehensive **AI Finance Platform** built using modern web technologies to p
 ---
 ## Preview
 
+## Preview
+
+![TrackNest Dashboard](./preview2.png)
 
 
 ## 📦 Installation & Local Setup
