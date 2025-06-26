@@ -26,11 +26,11 @@ A comprehensive **AI Finance Platform** built using modern web technologies to p
 - **Shadcn UI** – Beautiful, accessible React UI components.
 
 ---
-## Preview
+
 
 ## Preview
 
-![TrackNest Dashboard](./preview2.png)
+![TrackNest Dashboard](./preview50.png)
 
 
 ## 📦 Installation & Local Setup
